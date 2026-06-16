@@ -23,14 +23,14 @@ An interactive **Machine Learning + Streamlit** application that predicts a stud
 ---
 
 ## 📂 Project Structure
-
+```
 ├── student_performance_data.xlsx   # Dataset
 ├── app.py                          # Training + Streamlit app
 ├── requirements.txt                # Dependencies
 ├── best_model_with_scaler.pkl      # Saved model + scaler
 └── README.md                       # Documentation
 
-
+```
 ---
 
 ## ⚙️ Installation & Setup
